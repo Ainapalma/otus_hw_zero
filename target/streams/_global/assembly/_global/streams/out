@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jsoniter-scala-core_2.12-2.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scopt_2.12-4.0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-xml_2.12-1.0.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jsoniter-scala-macros_2.12-2.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-compiler.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'LICENSE' with strategy 'first'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/jline/jline/pom.properties' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/maven/jline/jline/pom.xml' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/native/linux32/libjansi.so' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/native/linux64/libjansi.so' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/native/osx/libjansi.jnilib' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/native/windows32/jansi.dll' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/native/windows64/jansi.dll' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF/services/javax.script.ScriptEngineFactory' with strategy 'discard'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'NOTICE' with strategy 'first'[0m
+[0m[[0m[0mdebug[0m] [0m[0mMerging 'rootdoc.txt' with strategy 'first'[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to 9 files (Run the task at debug level to see details)[0m
+[0m[[0m[0minfo[0m] [0m[0mStrategy 'first' was applied to 3 files (Run the task at debug level to see details)[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/finally-fat.jar[0m

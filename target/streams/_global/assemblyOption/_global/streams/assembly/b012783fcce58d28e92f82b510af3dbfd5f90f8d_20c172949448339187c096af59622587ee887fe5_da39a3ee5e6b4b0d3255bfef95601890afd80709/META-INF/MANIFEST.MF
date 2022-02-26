@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jsoniter-scala-macros
+Automatic-Module-Name: jsoniter-scala-macros
+Implementation-Version: 2.12.3
+Specification-Vendor: com.github.plokhotnyuk.jsoniter-scala
+Specification-Title: jsoniter-scala-macros
+Implementation-Vendor-Id: com.github.plokhotnyuk.jsoniter-scala
+Specification-Version: 2.12.3
+Implementation-URL: https://github.com/plokhotnyuk/jsoniter-scala
+Implementation-Vendor: com.github.plokhotnyuk.jsoniter-scala
+

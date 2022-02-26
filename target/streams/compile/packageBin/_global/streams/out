@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/hwone_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$Name$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$Name$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParseAndTransform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/ParseAndTransform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$RootInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$RootInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$RootInterface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$RootInterface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$Name.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$Name.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParseAndTransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/ParseAndTransform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Jsoniter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/palma/IdeaProjects/hwOne2602/target/scala-2.12/classes/Jsoniter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
